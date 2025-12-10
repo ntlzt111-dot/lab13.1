@@ -1,0 +1,23 @@
+.bg-img1 {
+  background-image: url(programimage/canhhovatrang.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-img2 {
+  background-image: url(programimage/canhhovatrang.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-img3 {
+  background-image: url(programimage/canhhovatrang.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
